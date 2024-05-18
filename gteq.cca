@@ -1,0 +1,7 @@
+LOAD N
+GTEQ M
+EXIT
+
+DATA:
+N = 6
+M = 3

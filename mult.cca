@@ -1,0 +1,7 @@
+LOAD A
+MULT B
+EXIT
+
+DATA:
+A = D
+B = 11

@@ -1,0 +1,7 @@
+LOAD V1
+ADD V2
+EXIT
+
+DATA:
+V1 = D
+V2 = 11
